@@ -1,0 +1,32 @@
+{
+  "id": "07-infographic-dashboard",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Flat vector dashboard panel showing three gauge dials and abstract latency curves, muted blue and sand palette, generous white space, crisp geometric cards, no placeholder text. Three clearly separated gauge cards with orange accents, simple unlabeled plots, no letters, numbers or placeholder text.",
+    "size": "16:9",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.023466+00:00",
+  "task_id": "tsk_img_01M4JEDF5RCHV0EN9WWM65MB5Q",
+  "completed_at": "2026-10-10T08:25:22.979215+00:00",
+  "output_path": "assets/07-infographic-dashboard.png",
+  "output_sha256": "73212d142334f803b76b35cd4ee0871b765fa5afb64835c132af0689ce4beffc",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1280,
+    720
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "16:9",
+    "actual_ratio_error_percent": 0.0,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.731732+00:00"
+  }
+}

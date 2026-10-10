@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "16:9",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Flat vector dashboard panel showing three gauge dials and abstract latency curves, muted blue and sand palette, generous white space, crisp geometric cards, no placeholder text. Three clearly separated gauge cards with orange accents, simple unlabeled plots, no letters, numbers or placeholder text."
+}

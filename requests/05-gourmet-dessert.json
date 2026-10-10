@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "4:3",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Gourmet chocolate dessert with gold leaf on a dark ceramic plate, moody side light, shallow depth of field, fine dining food photography. One sculptural chocolate dessert with a restrained gold-leaf accent, realistic chocolate texture and narrow depth of field, no text."
+}

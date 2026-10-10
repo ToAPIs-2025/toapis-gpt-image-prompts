@@ -1,0 +1,31 @@
+{
+  "id": "01-product-hero-perfume",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Studio hero shot of a frosted glass perfume bottle on a wet black stone slab, single softbox from the left, faint mist, deep charcoal background, crisp label text, commercial product photography. A minimalist amber label with the single word 'AURA', centered bottle silhouette, controlled highlights and no additional props.",
+    "size": "1:1",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:17:13.681321+00:00",
+  "task_id": "tsk_img_01M4JE6GBS0WRB6M6K79DKM8P6",
+  "completed_at": "2026-10-10T08:18:21.902816+00:00",
+  "output_path": "assets/01-product-hero-perfume.png",
+  "output_sha256": "70e09314fa83e5fc0f4ab8c2f0056292e99fd70a365e8a068144cf3b6cb2fe08",
+  "actual_credits": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1024,
+    1024
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "1:1",
+    "actual_ratio_error_percent": 0.0,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.504140+00:00"
+  }
+}

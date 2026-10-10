@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "16:9",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Minimalist concrete villa on a cliff at dusk, warm interior light, infinity pool reflecting a violet sky, architectural photography, 24mm perspective, ultra sharp. A stepped terrace cut into the cliff, warm amber windows and a calm violet sky, architectural lines kept straight, no text."
+}

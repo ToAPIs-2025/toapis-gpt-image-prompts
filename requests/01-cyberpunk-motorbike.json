@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "16:9",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Cyberpunk motorbike parked in a neon-lit underpass, rain on asphalt, magenta and cyan rim lights, cinematic still, shallow depth of field. Orange motorcycle bodywork, magenta and cyan rim lights, believable reflections and wheel geometry, no readable text."
+}

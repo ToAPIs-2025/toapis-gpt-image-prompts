@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "3:4",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Editorial fashion portrait of a model in an oversized ivory wool coat, seamless light grey studio backdrop, crisp high key lighting, medium format detail, calm expression. Three-quarter portrait framing, relaxed posture, one oversized ivory coat, accurate hands and natural skin texture, no text."
+}

@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "3:2",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Mythic forest creature concept art, antlered guardian covered in moss and small flowers, soft volumetric light through trees, painterly detail. One calm antlered guardian in a fern clearing, moss-green and warm-gold palette, soft atmospheric depth, no text."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "04-architectural-dusk",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Minimalist concrete villa on a cliff at dusk, warm interior light, infinity pool reflecting a violet sky, architectural photography, 24mm perspective, ultra sharp. A stepped terrace cut into the cliff, warm amber windows and a calm violet sky, architectural lines kept straight, no text.",
+    "size": "16:9",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.021473+00:00",
+  "task_id": "tsk_img_01M4JEDEDTYVSR73Q9ACVQGAKN",
+  "completed_at": "2026-10-10T08:25:13.116004+00:00",
+  "output_path": "assets/04-architectural-dusk.png",
+  "output_sha256": "83142236a71bd8d7d9b682c41f516f2fe0337a3884e1930091e3648ccba59dcc",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1280,
+    720
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "16:9",
+    "actual_ratio_error_percent": 0.0,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.615123+00:00"
+  }
+}

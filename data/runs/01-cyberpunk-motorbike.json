@@ -1,0 +1,32 @@
+{
+  "id": "01-cyberpunk-motorbike",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Cyberpunk motorbike parked in a neon-lit underpass, rain on asphalt, magenta and cyan rim lights, cinematic still, shallow depth of field. Orange motorcycle bodywork, magenta and cyan rim lights, believable reflections and wheel geometry, no readable text.",
+    "size": "16:9",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.023466+00:00",
+  "task_id": "tsk_img_01M4JEDG0JWH793GG2CJ9JZQPS",
+  "completed_at": "2026-10-10T08:21:54.361718+00:00",
+  "output_path": "assets/01-cyberpunk-motorbike.png",
+  "output_sha256": "129a927bd96464f1d685253f8fd4c301718963e32034590483a254510359cc31",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1376,
+    768
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "16:9",
+    "actual_ratio_error_percent": 0.7812,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.769944+00:00"
+  }
+}

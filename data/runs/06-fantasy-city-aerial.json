@@ -1,0 +1,32 @@
+{
+  "id": "06-fantasy-city-aerial",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Aerial view of a fantasy cliff city carved into stone terraces above a turquoise sea, tiny bridges and hanging gardens, cinematic haze, epic scale. Warm sandstone buildings, tiny hanging gardens and a distant turquoise bay, readable foreground terraces and atmospheric depth, no text.",
+    "size": "16:9",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.044397+00:00",
+  "task_id": "tsk_img_01M4JEDGW225TDNTB6401JDP04",
+  "completed_at": "2026-10-10T08:25:15.659845+00:00",
+  "output_path": "assets/06-fantasy-city-aerial.png",
+  "output_sha256": "e455598c9e910c8e9dc0edf0ecd684732e2fce9cdba128b2e25b0ef106b168e6",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1280,
+    720
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "16:9",
+    "actual_ratio_error_percent": 0.0,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.882721+00:00"
+  }
+}

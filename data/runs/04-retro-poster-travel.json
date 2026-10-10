@@ -1,0 +1,32 @@
+{
+  "id": "04-retro-poster-travel",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Retro travel poster illustration of a coastal train route, flat colour blocks, textured paper grain, warm sunset palette, bold graphic composition. A small cream-and-orange train winding above a blue coastline, terracotta sunset and navy shadows, no lettering.",
+    "size": "3:4",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.024463+00:00",
+  "task_id": "tsk_img_01M4JEDGMAW5C8347HMZF7Q5Z1",
+  "completed_at": "2026-10-10T08:22:04.334410+00:00",
+  "output_path": "assets/04-retro-poster-travel.png",
+  "output_sha256": "df9a3e6de5d415adb3969cb48f4887c1349eb30b17b92f6592bf98452aee8cbc",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    896,
+    1184
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "3:4",
+    "actual_ratio_error_percent": 0.9009,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.826753+00:00"
+  }
+}

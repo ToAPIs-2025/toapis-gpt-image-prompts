@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "1:1",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Layered paper cut illustration of a mountain lake at sunrise, five depth layers, soft pastel palette, subtle drop shadows, art print composition, clean vector edges. Five visibly separated paper layers, warm peach sunlight and cool sage water, handcrafted paper texture, no text."
+}

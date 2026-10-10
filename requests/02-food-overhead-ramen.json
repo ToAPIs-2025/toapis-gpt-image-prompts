@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "4:3",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Overhead flat lay of a spicy miso ramen bowl with soft boiled egg, nori and scallions, dark ceramic table, chopsticks resting on the rim, natural window light, editorial food photography. Visible steam, detailed noodles and a balanced ingredient arrangement, accurate chopstick geometry, no text."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "03-cinematic-street-rain",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Rain soaked Kyoto alley at night, paper lantern reflections on wet stone, a lone figure with a transparent umbrella walking away, cinematic 35mm still, shallow depth of field, film grain. Warm amber lanterns against cool blue rain, believable wet pavement, one clear subject and no readable storefront text.",
+    "size": "16:9",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:18:55.288089+00:00",
+  "task_id": "tsk_img_01M4JE9KDCZVDT8Y99K8XZMVQ2",
+  "completed_at": "2026-10-10T08:19:45.641055+00:00",
+  "output_path": "assets/03-cinematic-street-rain.png",
+  "output_sha256": "c4f89e102cb00aee13096d657d45ec7ba418808eb1c17bf3ce89bf269a13dfdb",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1696,
+    960
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "16:9",
+    "actual_ratio_error_percent": 0.625,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.551980+00:00"
+  }
+}

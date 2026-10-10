@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "1:1",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Two frosted glass cosmetics bottles on a pale sand surface, hard afternoon light casting long shadows, minimal styling, commercial product photography. One tall serum bottle and one shorter bottle, consistent frosted-glass material, balanced spacing, no labels or branding."
+}

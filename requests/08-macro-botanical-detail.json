@@ -1,0 +1,8 @@
+{
+  "model": "gpt-image-2",
+  "size": "3:2",
+  "resolution": "1k",
+  "n": 1,
+  "response_format": "url",
+  "prompt": "Macro photograph of a dew covered dandelion seed head against deep black background, focus stacked detail, iridescent droplets, studio lighting. One delicate seed head as the focal point, individual dew droplets with restrained rainbow highlights, high contrast, no text."
+}

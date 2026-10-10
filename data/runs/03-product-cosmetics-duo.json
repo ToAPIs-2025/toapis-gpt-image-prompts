@@ -1,0 +1,32 @@
+{
+  "id": "03-product-cosmetics-duo",
+  "request": {
+    "model": "gpt-image-2",
+    "prompt": "Two frosted glass cosmetics bottles on a pale sand surface, hard afternoon light casting long shadows, minimal styling, commercial product photography. One tall serum bottle and one shorter bottle, consistent frosted-glass material, balanced spacing, no labels or branding.",
+    "size": "1:1",
+    "resolution": "1k",
+    "n": 1,
+    "response_format": "url"
+  },
+  "status": "completed",
+  "submitted_at": "2026-10-10T08:21:01.023466+00:00",
+  "task_id": "tsk_img_01M4JEDFDEJNPAR1S00XQKHWBT",
+  "completed_at": "2026-10-10T08:22:02.867092+00:00",
+  "output_path": "assets/03-product-cosmetics-duo.png",
+  "output_sha256": "e582a347844866d50426f8e0d88c3ccc4c4866df81c9278c6f7c4cd5d360f6b6",
+  "actual_credits": null,
+  "reported_cost": null,
+  "cost_source": "task_response; null means not supplied",
+  "provider_model": "gpt-image-2",
+  "actual_pixels": [
+    1024,
+    1024
+  ],
+  "validation": {
+    "requested_model_resolution": "passed",
+    "requested_ratio": "1:1",
+    "actual_ratio_error_percent": 0.0,
+    "ratio_tolerance_percent": 2,
+    "checked_at": "2026-10-10T08:26:57.748677+00:00"
+  }
+}
