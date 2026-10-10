@@ -6,32 +6,46 @@
 
 [获取 API Key](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_repo&utm_campaign=gh_gpt_image_prompts&utm_content=readme_top_key) · [当前价格](https://toapis.com/en/pricing?utm_source=github&utm_medium=organic_repo&utm_campaign=gh_gpt_image_prompts&utm_content=readme_pricing) · [Quick Start](https://github.com/ToAPIs-2025/toapis-quickstart) · [English](README.md)
 
+## 生成费用与模型价格
+
+**本图集每张图片的生成耗费仅 $0.015/张（gpt-image-2 · 1K）。** 按此单价，14 张图片合计 $0.21。
+
+| 模型 | 1K | 2K | 4K |
+| --- | --- | --- | --- |
+| `gpt-image-2` | $0.015 | $0.020 | $0.025 |
+| `gpt-image-2.5-flare` | $0.0225 | $0.030 | $0.0375 |
+| `gpt-image-2.5-sunburst` | $0.0225 | $0.030 | $0.0375 |
+
+价格单位为美元/张（每次请求生成 1 张）。`gpt-image-2.5-flare` 与 `gpt-image-2.5-sunburst` 同价；本图集的图片均使用 `gpt-image-2`，未使用 2.5 模型。
+
+价格依据维护者提供的 ToAPIs 价目表，更新于 2026-10-10。以上为标价，具体账单以账户用量记录为准；最新价格见 [ToAPIs 价格页](https://toapis.com/en/pricing)。
+
 ## 图集
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="assets/01-product-hero-perfume.png"><img src="assets/01-product-hero-perfume.png" width="300" alt="Product Hero Perfume"></a><br><b>Product Hero Perfume</b><br>1:1 · 1K</td>
-<td width="33%" valign="top"><a href="assets/03-cinematic-street-rain.png"><img src="assets/03-cinematic-street-rain.png" width="300" alt="Cinematic Street Rain"></a><br><b>Cinematic Street Rain</b><br>16:9 · 1K</td>
-<td width="33%" valign="top"><a href="assets/02-food-overhead-ramen.png"><img src="assets/02-food-overhead-ramen.png" width="300" alt="Food Overhead Ramen"></a><br><b>Food Overhead Ramen</b><br>4:3 · 1K</td>
+<td width="33%" valign="top"><a href="assets/01-product-hero-perfume.png"><img src="assets/01-product-hero-perfume.png" width="300" alt="Product Hero Perfume"></a><br><b>Product Hero Perfume</b><br>1:1 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/03-cinematic-street-rain.png"><img src="assets/03-cinematic-street-rain.png" width="300" alt="Cinematic Street Rain"></a><br><b>Cinematic Street Rain</b><br>16:9 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/02-food-overhead-ramen.png"><img src="assets/02-food-overhead-ramen.png" width="300" alt="Food Overhead Ramen"></a><br><b>Food Overhead Ramen</b><br>4:3 · 1K · $0.015/张</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="assets/04-architectural-dusk.png"><img src="assets/04-architectural-dusk.png" width="300" alt="Architectural Dusk"></a><br><b>Architectural Dusk</b><br>16:9 · 1K</td>
-<td width="33%" valign="top"><a href="assets/06-illustration-layered-paper.png"><img src="assets/06-illustration-layered-paper.png" width="300" alt="Illustration Layered Paper"></a><br><b>Illustration Layered Paper</b><br>1:1 · 1K</td>
-<td width="33%" valign="top"><a href="assets/05-fashion-editorial-studio.png"><img src="assets/05-fashion-editorial-studio.png" width="300" alt="Fashion Editorial Studio"></a><br><b>Fashion Editorial Studio</b><br>3:4 · 1K</td>
+<td width="33%" valign="top"><a href="assets/04-architectural-dusk.png"><img src="assets/04-architectural-dusk.png" width="300" alt="Architectural Dusk"></a><br><b>Architectural Dusk</b><br>16:9 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/06-illustration-layered-paper.png"><img src="assets/06-illustration-layered-paper.png" width="300" alt="Illustration Layered Paper"></a><br><b>Illustration Layered Paper</b><br>1:1 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/05-fashion-editorial-studio.png"><img src="assets/05-fashion-editorial-studio.png" width="300" alt="Fashion Editorial Studio"></a><br><b>Fashion Editorial Studio</b><br>3:4 · 1K · $0.015/张</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="assets/08-macro-botanical-detail.png"><img src="assets/08-macro-botanical-detail.png" width="300" alt="Macro Botanical Detail"></a><br><b>Macro Botanical Detail</b><br>3:2 · 1K</td>
-<td width="33%" valign="top"><a href="assets/07-infographic-dashboard.png"><img src="assets/07-infographic-dashboard.png" width="300" alt="Infographic Dashboard"></a><br><b>Infographic Dashboard</b><br>16:9 · 1K</td>
-<td width="33%" valign="top"><a href="assets/03-product-cosmetics-duo.png"><img src="assets/03-product-cosmetics-duo.png" width="300" alt="Product Cosmetics Duo"></a><br><b>Product Cosmetics Duo</b><br>1:1 · 1K</td>
+<td width="33%" valign="top"><a href="assets/08-macro-botanical-detail.png"><img src="assets/08-macro-botanical-detail.png" width="300" alt="Macro Botanical Detail"></a><br><b>Macro Botanical Detail</b><br>3:2 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/07-infographic-dashboard.png"><img src="assets/07-infographic-dashboard.png" width="300" alt="Infographic Dashboard"></a><br><b>Infographic Dashboard</b><br>16:9 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/03-product-cosmetics-duo.png"><img src="assets/03-product-cosmetics-duo.png" width="300" alt="Product Cosmetics Duo"></a><br><b>Product Cosmetics Duo</b><br>1:1 · 1K · $0.015/张</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="assets/01-cyberpunk-motorbike.png"><img src="assets/01-cyberpunk-motorbike.png" width="300" alt="Cyberpunk Motorbike"></a><br><b>Cyberpunk Motorbike</b><br>16:9 · 1K</td>
-<td width="33%" valign="top"><a href="assets/02-mythic-creature-concept.png"><img src="assets/02-mythic-creature-concept.png" width="300" alt="Mythic Creature Concept"></a><br><b>Mythic Creature Concept</b><br>3:2 · 1K</td>
-<td width="33%" valign="top"><a href="assets/04-retro-poster-travel.png"><img src="assets/04-retro-poster-travel.png" width="300" alt="Retro Poster Travel"></a><br><b>Retro Poster Travel</b><br>3:4 · 1K</td>
+<td width="33%" valign="top"><a href="assets/01-cyberpunk-motorbike.png"><img src="assets/01-cyberpunk-motorbike.png" width="300" alt="Cyberpunk Motorbike"></a><br><b>Cyberpunk Motorbike</b><br>16:9 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/02-mythic-creature-concept.png"><img src="assets/02-mythic-creature-concept.png" width="300" alt="Mythic Creature Concept"></a><br><b>Mythic Creature Concept</b><br>3:2 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/04-retro-poster-travel.png"><img src="assets/04-retro-poster-travel.png" width="300" alt="Retro Poster Travel"></a><br><b>Retro Poster Travel</b><br>3:4 · 1K · $0.015/张</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="assets/05-gourmet-dessert.png"><img src="assets/05-gourmet-dessert.png" width="300" alt="Gourmet Dessert"></a><br><b>Gourmet Dessert</b><br>4:3 · 1K</td>
-<td width="33%" valign="top"><a href="assets/06-fantasy-city-aerial.png"><img src="assets/06-fantasy-city-aerial.png" width="300" alt="Fantasy City Aerial"></a><br><b>Fantasy City Aerial</b><br>16:9 · 1K</td>
+<td width="33%" valign="top"><a href="assets/05-gourmet-dessert.png"><img src="assets/05-gourmet-dessert.png" width="300" alt="Gourmet Dessert"></a><br><b>Gourmet Dessert</b><br>4:3 · 1K · $0.015/张</td>
+<td width="33%" valign="top"><a href="assets/06-fantasy-city-aerial.png"><img src="assets/06-fantasy-city-aerial.png" width="300" alt="Fantasy City Aerial"></a><br><b>Fantasy City Aerial</b><br>16:9 · 1K · $0.015/张</td>
 </tr>
 </table>
 
